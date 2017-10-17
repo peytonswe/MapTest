@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapAsAFragment</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDS7_b7Q1w_xjCf_8oRDd-bf1shsXU_dmg</string>
+
+</resources>
